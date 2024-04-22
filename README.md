@@ -13,7 +13,7 @@
 
   <div>
     <a href="https://github.com/Wanderley-ac">
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Wanderley-ac&show_icons-true&theme-blue&include_all_commits=true&coun0t_private-true"/>
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Wanderley-ac&show_icons-true&theme-dark&include_all_commits=true&coun0t_private-true"/>
         <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderley-ac&layout-compact&langs_count=168&theme-dark"/>
     </a>
 
