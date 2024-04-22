@@ -14,7 +14,7 @@
   <div>
     <a href="https://github.com/eumermoo">
         <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=eumermoo&show_icons-true&theme-dark&include_all_commits=true&coun0t_private-true"/>
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?usernameeumermoo&layout-compact&langs_count=168&theme-dark"/>
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumermoo&layout-compact&langs_count=168&theme-dark"/>
     </a>
   
 </div>
